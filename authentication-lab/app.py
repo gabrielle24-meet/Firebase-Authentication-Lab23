@@ -5,13 +5,13 @@ import pyrebase
 firebase = 
 
 config = {
-"apiKey": "AIzaSyAFSxExGBR4zkhGJRK_Xb-BFz3mE5T4nBM",
+"apiKey": "AIzaSyAFSxExGBR4zkhGJRK_Xb-BFz3mE5T4nBM", 
   "authDomain": "example-9e0f4.firebaseapp.com",
   "projectId": "example-9e0f4",
   "storageBucket": "example-9e0f4.appspot.com",
-  "messagingSenderId": "5891476454",
+  "messagingSenderId:" "5891476454",
   "appId": "1:5891476454:web:920a5f8c52b0041e9be427",
-  "measurementId": "G-LXM8YFZZ2B"
+ "measurementId": "G-LXM8YFZZ2B"
     
 }
 
